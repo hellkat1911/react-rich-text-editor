@@ -5,8 +5,8 @@ While there are a handful of good rich text editors out there for React, I had a
 
 To use this component, the following packages are required:
 
-1. react (16.8 or greater)
-2. slate (0.47.8 or greater)
+1. react (16.8 or later)
+2. slate (0.47.8 or later)
 3. slate-react
 4. slate-html-serializer
 
