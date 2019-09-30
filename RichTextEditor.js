@@ -1,10 +1,9 @@
 import React, { useState, useRef } from 'react';
 import PropTypes from 'prop-types';
-import { makeStyles } from '@material-ui/core';
-import { Editor } from 'slate-react';
 import { Value } from 'slate';
+import { Editor } from 'slate-react';
 import Html from 'slate-html-serializer'
-import { Button, Icon, Toolbar } from '@material-ui/core';
+import { makeStyles, Button, Icon, Toolbar } from '@material-ui/core';
 
 const RichTextEditor = props => {
 
